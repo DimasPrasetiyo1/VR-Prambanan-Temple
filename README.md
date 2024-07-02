@@ -24,7 +24,7 @@ Untuk mengakses pengalaman VR Candi Prambanan, Anda dapat mengunduh aplikasi kam
 ## Kode QR
 <p align="center">
   <a href="https://dimasprasetiyo1.github.io/VR-Prambanan-Temple/homepage.html">
-    <img src="/assets/QR Prambanan Temple" alt="QR Code" width="200">
+    <img src="/assets/Prambanan Temple" alt="QR Code" width="200">
   </a>
 </p>
 
