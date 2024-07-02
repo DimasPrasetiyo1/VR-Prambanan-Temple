@@ -21,6 +21,14 @@ Pelestarian: Membantu upaya pelestarian dengan mengurangi dampak fisik pengunjun
 Cara Mengakses
 Untuk mengakses pengalaman VR Candi Prambanan, Anda dapat mengunduh aplikasi kami dari App Store atau Google Play. Aplikasi ini kompatibel dengan berbagai perangkat VR, termasuk Oculus Rift, HTC Vive, dan Google Cardboard.
 
+## Kode QR
+<p align="center">
+  <a href="https://dimasprasetiyo1.github.io/VR-Prambanan-Temple/homepage.html">
+    <img src="/assets/QR Prambanan Temple" alt="QR Code" width="200">
+  </a>
+</p>
+
+
 ## Homepage Website Virtual Reality Prambanan Temple
 <p align="center">
     <img src="/assets/Homepage.png" alt="QR Code" width=1000">
