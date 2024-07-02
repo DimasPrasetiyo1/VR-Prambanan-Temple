@@ -23,5 +23,5 @@ Untuk mengakses pengalaman VR Candi Prambanan, Anda dapat mengunduh aplikasi kam
 
 ## Homepage Website Virtual Reality Prambanan Temple
 <p align="center">
-    <img src="/assets/Homepage.png" alt="QR Code" width="500">
+    <img src="/assets/Homepage.png" alt="QR Code" width=800">
 </p>
